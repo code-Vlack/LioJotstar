@@ -12,7 +12,7 @@ Financial Performance: A detailed breakdown of total revenue and ARPU, and an an
 
 User Behavior & Demographics: In-depth subscriber acquisition and churn analysis, including segmentation by age group, city tier, and subscription plan.
 
-Content & Engagement Strategy: A comparative study of content library distribution and average watch time to identify key areas for content strategy optimization.<img width="1440" height="805" alt="Screenshot 2025-09-09 102037" src="https://github.com/user-attachments/assets/1d3f2399-1d97-473c-9f9e-ee7aa4a4f9be" />
+Content & Engagement Strategy: A comparative study of content library distribution and average watch time to identify key areas for content strategy optimization.
 
 
 Inactive User Analysis: A dedicated analysis of the inactive user base to uncover key metrics and identify opportunities for re-engagement campaigns.
